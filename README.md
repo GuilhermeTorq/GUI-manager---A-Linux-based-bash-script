@@ -1,4 +1,5 @@
 # GUI-manager---A-Linux-based-bash-script
+-- work in progress --  
 
 A Linux based bash script, this script can only be run on linux OS based system.
 

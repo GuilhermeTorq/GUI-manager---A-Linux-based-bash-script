@@ -1,21 +1,19 @@
 # GUI-manager---A-Linux-based-bash-script
--- work in progress --  
+-- work completed --  
 
 A Linux based bash script, this script can only be run on linux OS based system.
 
-The file is ex_dialog.sh, wich will create another file named "_1.txt"  that will be used to temporarely store variables.  
+The file is ex_dialog.sh, wich will create a folder named "log" with the following file: _1.txt and err.txt that will be used to temporarely store variables.  
 
-There will also be created a file named "err.txt" just for the use of showing you, the user, what was the error in case it happens.  
-
-For example, renaming a file with the exact same name, or a path that does not exists.
+There is also a folder named dialogrc_styles wich constains the file dialog.dialogrc. This file is only used to change the colors of the dialogs that are then presented.  
 
 
 Features:  
 
- - Create Directories;  
+ - Create one directorie;
+ - Copy one or more files at once;
  - Delete one or more files at once;  
- - Rename files;  
- - Copy files.  
+ - Rename one file;  
 
 A GUI based on using "dialog".  
 

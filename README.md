@@ -1,6 +1,8 @@
 # GUI-manager---A-Linux-based-bash-script
 -- work completed --  
 
+Languague: Português
+
 A Linux based bash script, this script can only be run on linux OS based system.
 
 The file is ex_dialog.sh, wich will create a folder named "log" with the following file: _1.txt and err.txt that will be used to temporarely store variables.  
